@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Running tests..."
-echo "All tests passed"
+echo "sleeping for 60s..."
+sleep 60
